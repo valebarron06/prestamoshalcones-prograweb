@@ -27,7 +27,7 @@ export default function Hero() {
   <a href="#solicitar" className="rounded-xl bg-blue-700 px-6 py-3.5 text-sm font-semibold text-white shadow-md transition-all hover:bg-blue-800">
    Solicitar prestamo 
   </a>
-  <a href="#solicitar" className="rounded-xl border border-slate-200 bg-white px-6 py-3.5 text-sm font-semibold text-slate-700 shadow-sm transition-all hover:bg-slate-50">
+  <a href="#funcion" className="rounded-xl border border-slate-200 bg-white px-6 py-3.5 text-sm font-semibold text-slate-700 shadow-sm transition-all hover:bg-slate-50">
    Ver proceso Paso a Paso
   </a>
   </div>
