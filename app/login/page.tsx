@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function LoginPage() {
   return (
-    <main className="relatve flex min-h-screen items-center justify-center overflow-hidden bg-white px-6 py-12 text-on-surface">
+    <main className="relatve flex min-h-screen items-center justify-center overflow-hidden bg-[#e1f6fd] px-6 py-12 text-on-surface">
       <div className="pointer-events-none absolute -top-40 left-1/2 h-96 w-96 -translate-x-1/2" />
       <div className="relative z-10 w-full max-w-md">
         <Link href="/" className="mb-10 flex items-center justify-center gap-3">
