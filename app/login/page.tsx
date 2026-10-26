@@ -72,6 +72,15 @@ export default function LoginPage() {
                 arrow_forward
               </span>
             </button>
+            <div className="mt-6 text-center text-sm">
+              <span className="text-[#000000]">¿No tienes cuenta? </span>
+              <Link
+                href="/signup"
+                className="font-bold text-[#195aec] hover:underline transition-colors"
+              >
+                Regístrate aquí
+              </Link>
+            </div>
           </form>
         </div>
       </div>
